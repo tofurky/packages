@@ -11,7 +11,7 @@ include $(TOPDIR)/rules.mk
 include ../python3-version.mk
 
 PKG_NAME:=python3
-PKG_RELEASE:=2
+PKG_RELEASE:=3
 PKG_VERSION:=$(PYTHON3_VERSION).$(PYTHON3_VERSION_MICRO)
 
 PKG_SOURCE:=Python-$(PKG_VERSION).tar.xz
@@ -210,6 +210,12 @@ define Build/InstallDev
 		$(PKG_INSTALL_DIR)/usr/lib/python$(PYTHON3_VERSION) \
 		$(PKG_INSTALL_DIR)/usr/lib/libpython$(PYTHON3_VERSION).so* \
 		$(1)/usr/lib/
+
+	# For packages that need to use _PYTHON_PROJECT_BASE when cross-compiling; fake the layout of the build directory
+	for dir in $(PKG_INSTALL_DIR)/usr/lib/python$(PYTHON3_VERSION)/config-$(PYTHON3_VERSION)-*; do \
+		$(LN) -snf . "$$$$dir/Modules"; \
+		$(LN) -snf ../../../include/python$(PYTHON3_VERSION) "$$$$dir/Include"; \
+	done
 
 	$(INSTALL_DIR) $(1)/usr/lib/python$(PYTHON3_VERSION)/openwrt
 	grep -E \
