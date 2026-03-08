@@ -18,6 +18,8 @@ PKG_LICENSE:=Apache-2.0
 PKG_LICENSE_FILES:=LICENSE
 PKG_MAINTAINER:=Julien Malik <julien.malik@paraiso.me>
 
+PKG_BUILD_DEPENDS:=python-setuptools/host
+
 include ../pypi.mk
 include $(INCLUDE_DIR)/package.mk
 include ../python3-package.mk
