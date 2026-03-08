@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-flask-seasurf
 PKG_VERSION:=2.0.0
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=Flask-SeaSurf
 PYTHON3_PKG_WHEEL_NAME:=flask_seasurf

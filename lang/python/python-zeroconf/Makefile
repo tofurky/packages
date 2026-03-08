@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-zeroconf
 PKG_VERSION:=0.131.0
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=zeroconf
 PKG_HASH:=90c431e99192a044a5e0217afd7ca0ca9824af93190332e6f7baf4da5375f331

@@ -6,7 +6,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-cryptodomex
 PKG_VERSION:=3.18.0
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=pycryptodomex
 PKG_HASH:=3e3ecb5fe979e7c1bb0027e518340acf7ee60415d79295e5251d13c68dde576e

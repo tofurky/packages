@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-execnet
 PKG_VERSION:=2.0.2
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=execnet
 PKG_HASH:=cc59bc4423742fd71ad227122eb0dd44db51efb3dc4095b45ac9a08c770096af

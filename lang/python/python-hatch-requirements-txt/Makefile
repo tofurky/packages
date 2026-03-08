@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-hatch-requirements-txt
 PKG_VERSION:=0.4.1
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=hatch-requirements-txt
 PYPI_SOURCE_NAME:=hatch_requirements_txt

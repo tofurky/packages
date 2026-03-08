@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-dns
 PKG_VERSION:=2.4.1
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=dnspython
 PKG_HASH:=c33971c79af5be968bb897e95c2448e11a645ee84d93b265ce0b7aabe5dfdca8

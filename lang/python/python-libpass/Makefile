@@ -5,7 +5,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-libpass
 PKG_VERSION:=1.9.3
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=libpass
 PKG_HASH:=7830b9323d9ba96a841ad698a8dec1d43a2b0b7f1c855c76772e7972c1c6d959

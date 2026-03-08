@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-psutil
 PKG_VERSION:=5.9.5
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=psutil
 PKG_HASH:=5410638e4df39c54d957fc51ce03048acd8e6d60abc0f5107af51e5fb566eb3c

@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-eventlet
 PKG_VERSION:=0.40.3
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=eventlet
 PKG_HASH:=290852db0065d78cec17a821b78c8a51cafb820a792796a354592ae4d5fceeb0

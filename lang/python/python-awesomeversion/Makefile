@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-awesomeversion
 PKG_VERSION:=23.5.0
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=awesomeversion
 PKG_HASH:=a505558316010d2d10d487226f79c1157204af00fa462fdcf948e347011dd491

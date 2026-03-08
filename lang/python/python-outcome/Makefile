@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-outcome
 PKG_VERSION:=1.2.0
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=outcome
 PKG_HASH:=6f82bd3de45da303cf1f771ecafa1633750a358436a8bb60e06a1ceb745d2672

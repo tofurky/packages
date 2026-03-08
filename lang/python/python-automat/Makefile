@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-automat
 PKG_VERSION:=25.4.16
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=automat
 PKG_HASH:=0017591a5477066e90d26b0e696ddc143baafd87b588cfac8100bc6be9634de0

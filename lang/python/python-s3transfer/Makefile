@@ -2,7 +2,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-s3transfer
 PKG_VERSION:=0.6.1
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=s3transfer
 PKG_HASH:=640bb492711f4c0c0905e1f62b6aaeb771881935ad27884852411f8e9cacbca9

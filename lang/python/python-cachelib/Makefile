@@ -6,7 +6,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-cachelib
 PKG_VERSION:=0.10.2
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=cachelib
 PKG_HASH:=593faeee62a7c037d50fc835617a01b887503f972fb52b188ae7e50e9cb69740

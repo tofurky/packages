@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-msgpack
 PKG_VERSION:=1.1.2
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=msgpack
 PKG_HASH:=3b60763c1373dd60f398488069bcdc703cd08a711477b5d480eecc9f9626f47e

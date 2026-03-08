@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-versioneer
 PKG_VERSION:=0.29
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=versioneer
 PKG_HASH:=5ab283b9857211d61b53318b7c792cf68e798e765ee17c27ade9f6c924235731

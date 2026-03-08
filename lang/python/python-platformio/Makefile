@@ -6,7 +6,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-platformio
 PKG_VERSION:=6.1.18
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=platformio
 PKG_HASH:=6ea19c66fba3c5272378afa6ae11abbf883243dd8e503ac5f4ff8ac277ccc7c6

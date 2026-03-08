@@ -3,7 +3,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-pycares
 PKG_VERSION:=4.10.0
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=pycares
 PKG_HASH:=9df70dce6e05afa5d477f48959170e569485e20dad1a089c4cf3b2d7ffbd8bf9

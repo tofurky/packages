@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-voluptuous
 PKG_VERSION:=0.13.1
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=voluptuous
 PKG_HASH:=e8d31c20601d6773cb14d4c0f42aee29c6821bbd1018039aac7ac5605b489723

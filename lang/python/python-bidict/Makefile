@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-bidict
 PKG_VERSION:=0.22.1
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=bidict
 PKG_HASH:=1e0f7f74e4860e6d0943a05d4134c63a2fad86f3d4732fb265bd79e4e856d81d

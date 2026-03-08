@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-yaml
 PKG_VERSION:=6.0.3
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=PyYAML
 PYPI_SOURCE_NAME:=pyyaml

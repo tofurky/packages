@@ -7,7 +7,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-semanage
 PKG_VERSION:=3.8.1
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 SRC_NAME:=libsemanage
 PKG_SOURCE:=$(SRC_NAME)-$(PKG_VERSION).tar.gz

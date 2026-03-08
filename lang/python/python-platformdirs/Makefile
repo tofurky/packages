@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-platformdirs
 PKG_VERSION:=4.1.0
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=platformdirs
 PKG_HASH:=906d548203468492d432bcb294d4bc2fff751bf84971fbb2c10918cc206ee420
