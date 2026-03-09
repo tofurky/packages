@@ -2,7 +2,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-zope-event
 PKG_VERSION:=6.1
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=zope.event
 PYPI_SOURCE_NAME:=zope_event

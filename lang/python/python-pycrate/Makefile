@@ -5,7 +5,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-pycrate
 PKG_VERSION:=0.6.0
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=pycrate
 PKG_HASH:=b49738c02a3f93ba9f76c0dac82b689a5341882814b36c714e9600e9f560daf7

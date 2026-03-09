@@ -6,7 +6,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-tabulate
 PKG_VERSION:=0.9.0
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=tabulate
 PKG_HASH:=0095b12bf5966de529c0feb1fa08671671b3368eec77d7ef7ab114be2c068b3c

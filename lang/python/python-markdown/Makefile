@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-markdown
 PKG_VERSION:=3.10
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=markdown
 PKG_HASH:=37062d4f2aa4b2b6b32aefb80faa300f82cc790cb949a35b8caede34f2b68c0e

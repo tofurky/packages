@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-lxml
 PKG_VERSION:=6.0.2
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=lxml
 PKG_HASH:=cd79f3367bd74b317dda655dc8fcfa304d9eb6e4fb06b7168c5cf27f96e0cd62

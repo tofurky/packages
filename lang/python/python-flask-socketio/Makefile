@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-flask-socketio
 PKG_VERSION:=5.5.1
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=Flask-SocketIO
 PYPI_SOURCE_NAME:=flask_socketio

@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-hatch-fancy-pypi-readme
 PKG_VERSION:=23.1.0
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=hatch-fancy-pypi-readme
 PYPI_SOURCE_NAME:=hatch_fancy_pypi_readme

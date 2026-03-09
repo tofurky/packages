@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-pyfuse3
 PKG_VERSION:=3.4.1
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=pyfuse3
 PKG_HASH:=602f9c5f944bcdbd5e7f526c0e7f44af41970abedabc72d94ac16563e1b49209

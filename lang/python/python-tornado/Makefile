@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-tornado
 PKG_VERSION:=6.3.3
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=tornado
 PKG_HASH:=e7d8db41c0181c80d76c982aacc442c0783a2c54d6400fe028954201a2e032fe

@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-setuptools-scm
 PKG_VERSION:=9.2.2
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=setuptools-scm
 PYPI_SOURCE_NAME:=setuptools_scm

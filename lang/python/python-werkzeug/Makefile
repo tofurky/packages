@@ -6,7 +6,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-werkzeug
 PKG_VERSION:=3.1.3
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=Werkzeug
 PYPI_SOURCE_NAME:=werkzeug

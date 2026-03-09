@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-cython
 PKG_VERSION:=3.1.5
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=Cython
 PYPI_SOURCE_NAME:=cython

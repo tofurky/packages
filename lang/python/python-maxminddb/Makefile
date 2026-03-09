@@ -10,7 +10,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-maxminddb
 PKG_VERSION:=2.4.0
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=maxminddb
 PKG_HASH:=81e54e53408bd502650e5969ccba16780af659ec1db1c44b2c997e4330a5ed96

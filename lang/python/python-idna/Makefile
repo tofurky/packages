@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-idna
 PKG_VERSION:=3.11
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=idna
 PKG_HASH:=795dafcc9c04ed0c1fb032c2aa73654d8e8c5023a7df64a53f39190ada629902

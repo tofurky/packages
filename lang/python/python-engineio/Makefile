@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-engineio
 PKG_VERSION:=4.5.1
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=python-engineio
 PKG_HASH:=b167a1b208fcdce5dbe96a61a6ca22391cfa6715d796c22de93e3adf9c07ae0c

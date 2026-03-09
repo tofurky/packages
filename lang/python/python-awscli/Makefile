@@ -2,7 +2,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-awscli
 PKG_VERSION:=1.29.7
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=awscli
 PKG_HASH:=b3a7076cb317a21410a2d41734ba338add80f0480804cf9d68cbc52b1d39612a

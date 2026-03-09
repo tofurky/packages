@@ -10,7 +10,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-flask-login
 PKG_VERSION:=0.6.3
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=Flask-Login
 PYTHON3_PKG_WHEEL_NAME:=flask_login

@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-flask-babel
 PKG_VERSION:=3.1.0
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=flask-babel
 PYPI_SOURCE_NAME:=flask_babel

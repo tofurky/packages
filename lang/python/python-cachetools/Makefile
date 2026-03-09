@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-cachetools
 PKG_VERSION:=5.3.1
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=cachetools
 PKG_HASH:=dce83f2d9b4e1f732a8cd44af8e8fab2dbe46201467fc98b3ef8f269092bf62b

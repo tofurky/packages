@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-more-itertools
 PKG_VERSION:=10.1.0
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=more-itertools
 PKG_HASH:=626c369fa0eb37bac0291bce8259b332fd59ac792fa5497b59837309cd5b114a

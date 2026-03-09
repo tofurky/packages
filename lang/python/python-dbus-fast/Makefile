@@ -8,7 +8,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-dbus-fast
 PKG_VERSION:=2.21.1
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=dbus-fast
 PYPI_SOURCE_NAME:=dbus_fast

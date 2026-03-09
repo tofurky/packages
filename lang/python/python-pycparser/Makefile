@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-pycparser
 PKG_VERSION:=2.23
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=pycparser
 PKG_HASH:=78816d4f24add8f10a06d6f05b4d424ad9e96cfebf68a4ddc99c65c0720d00c2

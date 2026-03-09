@@ -6,7 +6,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-pyelftools
 PKG_VERSION:=0.32
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=pyelftools
 PKG_HASH:=6de90ee7b8263e740c8715a925382d4099b354f29ac48ea40d840cf7aa14ace5

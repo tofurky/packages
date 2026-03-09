@@ -7,7 +7,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-networkx
 PKG_VERSION:=3.5
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=networkx
 PKG_HASH:=d4c6f9cf81f52d69230866796b82afbccdec3db7ae4fbd1b65ea750feed50037

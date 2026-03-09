@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-referencing
 PKG_VERSION:=0.32.0
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=referencing
 PKG_HASH:=689e64fe121843dcfd57b71933318ef1f91188ffb45367332700a86ac8fd6161

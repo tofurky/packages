@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-jsonschema-specifications
 PKG_VERSION:=2023.11.2
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=jsonschema-specifications
 PYPI_SOURCE_NAME:=jsonschema_specifications

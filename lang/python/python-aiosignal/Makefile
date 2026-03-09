@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-aiosignal
 PKG_VERSION:=1.3.1
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=aiosignal
 PKG_HASH:=54cd96e15e1649b75d6c87526a6ff0b6c1b0dd3459f43d9ca11d48c339b68cfc

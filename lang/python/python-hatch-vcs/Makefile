@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-hatch-vcs
 PKG_VERSION:=0.5.0
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=hatch-vcs
 PYPI_SOURCE_NAME:=hatch_vcs

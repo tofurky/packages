@@ -2,7 +2,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-pynacl
 PKG_VERSION:=1.6.1
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=pynacl
 PKG_HASH:=8d361dac0309f2b6ad33b349a56cd163c98430d409fa503b10b70b3ad66eaa1d

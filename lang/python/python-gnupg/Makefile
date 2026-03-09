@@ -6,7 +6,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-gnupg
 PKG_VERSION:=0.5.1
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=python-gnupg
 PKG_HASH:=5674bad4e93876c0b0d3197e314d7f942d39018bf31e2b833f6788a6813c3fb8

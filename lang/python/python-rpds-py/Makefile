@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-rpds-py
 PKG_VERSION:=0.10.6
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=rpds-py
 PYPI_SOURCE_NAME:=rpds_py

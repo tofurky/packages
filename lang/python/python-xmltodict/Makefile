@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-xmltodict
 PKG_VERSION:=0.13.0
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=xmltodict
 PKG_HASH:=341595a488e3e01a85a9d8911d8912fd922ede5fecc4dce437eb4b6c8d037e56

@@ -2,7 +2,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-orjson
 PKG_VERSION:=3.10.12
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=orjson
 PKG_HASH:=0a78bbda3aea0f9f079057ee1ee8a1ecf790d4f1af88dd67493c6b8ee52506ff

@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-ruamel-yaml
 PKG_VERSION:=0.18.16
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=ruamel.yaml
 PYTHON3_PKG_WHEEL_NAME:=ruamel_yaml

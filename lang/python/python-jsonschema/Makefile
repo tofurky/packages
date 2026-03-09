@@ -2,7 +2,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-jsonschema
 PKG_VERSION:=4.22.0
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=jsonschema
 PKG_HASH:=5b22d434a45935119af990552c862e5d6d564e8f6601206b305a61fdf661a2b7

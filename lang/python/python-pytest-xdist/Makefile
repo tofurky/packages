@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-pytest-xdist
 PKG_VERSION:=3.3.1
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=pytest-xdist
 PKG_HASH:=d5ee0520eb1b7bcca50a60a518ab7a7707992812c578198f8b44fdfac78e8c93

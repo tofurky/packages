@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-poetry-core
 PKG_VERSION:=1.8.1
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=poetry-core
 PYPI_SOURCE_NAME:=poetry_core

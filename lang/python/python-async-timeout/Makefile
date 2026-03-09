@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python-async-timeout
 PKG_VERSION:=4.0.2
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PYPI_NAME:=async-timeout
 PKG_HASH:=2163e1640ddb52b7a8c80d0a67a08587e5d245cc9c553a74a847056bc2976b15
